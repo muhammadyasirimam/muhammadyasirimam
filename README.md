@@ -13,7 +13,7 @@
 
 <!-- ─────────────── ANIMATED TYPING ─────────────── -->
 <a href="https://muhammadyasirimam.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&multiline=false&width=700&lines=Research+Assistant+%C2%B7+Al-Hamd+Islamic+University;CEO+%26+Founder+%C2%B7+MYI+Digital+%F0%9F%9A%80;Published+Author+%C2%B7+Amazon+2026+%F0%9F%93%9A;Gold+Medalist+%C2%B7+4.0+CGPA+%F0%9F%8F%85;292+Google+Scholar+Citations+%F0%9F%8E%93;Award-Winning+Researcher+%C2%B7+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&multiline=false&width=700&lines=Research+Assistant+%C2%B7+Al-Hamd+Islamic+University;CEO+%26+Founder+%C2%B7+MYI+Digital+%F0%9F%9A%80;Published+Author+%C2%B7+Amazon+2026+%F0%9F%93%9A;Gold+Medalist+%C2%B7+4.0+CGPA+%F0%9F%8F%85;19+Google+Scholar+Citations+%F0%9F%8E%93;Award-Winning+Researcher+%C2%B7+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -52,7 +52,7 @@ Role:         Research Assistant @ ARC, Al-Hamd Islamic University
               CEO & Founder @ MYI Digital
               Founder & CEO @ MYI News World
 Education:    BS Software Engineering — 4.0 CGPA 🏅 Gold Medal
-Citations:    292 (Google Scholar) | 1,710 Reads (ResearchGate)
+Citations:    19 (Google Scholar) | 1,710 Reads (ResearchGate)
 Publications: 12 (ResearchGate) | 20+ (All Platforms)
 Reviews:      Reviewer — USJICT & IJCNS Journals
 Book:         "The Colors of Life Only We Can See" — Amazon 2026
@@ -73,7 +73,7 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 
 | 🎓 Google Scholar | 🔬 ResearchGate | 📄 Publications | 📖 Total Reads | 🏅 CGPA |
 |:---:|:---:|:---:|:---:|:---:|
-| **292 Citations** | **16 Citations** | **12 (RG) / 20+ all** | **1,710** | **4.0 / 4.0** |
+| **19 Citations** | **16 Citations** | **12 (RG) / 20+ all** | **1,710** | **4.0 / 4.0** |
 
 </div>
 
@@ -85,7 +85,7 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7495--4179-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7495-4179)
 [![Web of Science](https://img.shields.io/badge/Web_of_Science-G--4103--2019-5E33BF?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/G-4103-2019)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-292_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=b80oc1UAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-19_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=b80oc1UAAAAJ)
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Muhammad_Yasir_Imam-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Muhammad-Yasir-Imam)
 [![IEEE](https://img.shields.io/badge/IEEE_Xplore-37088906312-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/37088906312)
@@ -138,7 +138,7 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 
 | Platform | ID / Handle | Status |
 |----------|-------------|--------|
-| 🎓 [Google Scholar](https://scholar.google.com/citations?user=b80oc1UAAAAJ) | `b80oc1UAAAAJ` | 292 citations |
+| 🎓 [Google Scholar](https://scholar.google.com/citations?user=b80oc1UAAAAJ) | `b80oc1UAAAAJ` | 19 citations |
 | 🔬 [ResearchGate](https://www.researchgate.net/profile/Muhammad-Yasir-Imam) | Muhammad-Yasir-Imam | 12 papers · 1,710 reads |
 | 🪪 [ORCID](https://orcid.org/0000-0002-7495-4179) | `0000-0002-7495-4179` | Verified ✅ |
 | 🌐 [Web of Science](https://www.webofscience.com/wos/author/record/G-4103-2019) | `G-4103-2019` | Verified ✅ |
@@ -312,7 +312,7 @@ Award-Winning Researcher & Author
 | 🏅 | Achievement | Details |
 |:---:|------------|---------|
 | 🥇 | **Gold Medal · 4.0 CGPA** | BS Software Engineering · Al-Hamd Islamic University · 2021 |
-| 🎓 | **292 Google Scholar Citations** | Verified at scholar.google.com · b80oc1UAAAAJ |
+| 🎓 | **19 Google Scholar Citations** | Verified at scholar.google.com · b80oc1UAAAAJ |
 | 🔬 | **12 Publications · 1,710 Reads** | ResearchGate · 20+ across all platforms |
 | 📈 | **AD Scientific Index** | Top Computer Scientists · Pakistan · ID: 4652608 |
 | 📚 | **Published Author · Amazon** | "The Colors of Life Only We Can See" · 2026 |
