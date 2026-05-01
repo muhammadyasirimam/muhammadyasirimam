@@ -56,14 +56,14 @@ Citations:    19 (Google Scholar) | 1,710 Reads (ResearchGate)
 Publications: 12 (ResearchGate) | 20+ (All Platforms)
 Reviews:      Reviewer — USJICT & IJCNS Journals
 Book:         "The Colors of Life Only We Can See" — Amazon 2026
-Medium:       Award-Winning Researcher | 118 Followers
+Medium:       Award-Winning Researcher | 170 Followers
 Status:       ✅ Open to Research Collaboration & Consultancy
 ```
 
 <br clear="right"/>
 
 ### 🌟 My Journey in One Line
-> *From 49% (D Grade) in matric → **4.0 CGPA Gold Medal** — documented on Medium with 17 responses from inspired readers worldwide.*
+> *From 49% (D Grade) in matric → **4.0 CGPA Gold Medal** in BS Software Engineering — documented on Medium from inspired readers worldwide.*
 
 ---
 
@@ -162,16 +162,20 @@ timeline
     title Muhammad Yasir Imam — Career Timeline
     2017 : BS Software Engineering Begins
          : Al-Hamd Islamic University, Islamabad
-    2019 : Research Assistant — ARC
-         : Junior Lecturer (Part-Time)
+    2018 : Intern — Zong Telecom
+         : Research Assistant — ARC
+    2019 : Junior Lecturer (Part-Time)
     2021 : Gold Medal · 4.0 CGPA — Graduated
-         : Intern — PepsiCo R&D, Islamabad
-         : Scholar — Huawei Technologies, Beijing
-         : Intern — Zong Telecom
+         : Intern — PepsiCo R&D, Islamabad (Remote)
+         : Scholar — Huawei (Seed For Future Program) Technologies, Beijing (Remote)
          : RA — Ovetix R&D, Islamabad
          : CEO & Founder — MYI Digital
-    2022 : Founder — MYI News World
-    2024 : Sr. SEO Writer — Global Study Expertz
+    2022 : Founder & CEO — MYI News World
+    2023 : Sr. Content Writer Team Lead — AiTech Marketing
+         : Sr. Content Writer — Nestors Global
+    2024 : Founder & CEO — Global Study Expertz
+         : Sr. SEO Content Writer Executive — Digital Aimz
+         : Sr. Content Writer Executive — Crecentech Systems 
     2026 : Published Author — Amazon
 ```
 
@@ -224,7 +228,7 @@ Award-Winning Researcher & Author
 | 🔬 Research Assistant | Ovetix · R&D · Islamabad | Jul 2021 – Jan 2022 |
 | 🏢 Scholar | Huawei Technologies · R&D · Beijing | Aug 2021 |
 | 🧪 Project Intern | PepsiCo Inc. · R&D · Islamabad | Jun – Aug 2021 |
-| 📡 Project Intern | Zong · 4G Telecom · Pakistan | 2021 |
+| 📡 Project Intern | Zong · 4G Telecom · Pakistan | 2018 |
 | 🏫 Junior Lecturer (Part-Time) | Al-Hamd Islamic University | 2019 – 2021 |
 
 ---
@@ -254,7 +258,7 @@ Award-Winning Researcher & Author
 ## ✍️ Medium & Writing
 
 > **"Published book author and Award-Winning Researcher. I write practical and impactful stories."**
-> — Medium bio · 118 followers · he/him
+> — Medium bio · 170 followers · he/him
 
 ### 📝 Latest Articles (Verified)
 
@@ -273,7 +277,7 @@ Award-Winning Researcher & Author
 
 <div align="center">
 
-[![Follow on Medium](https://img.shields.io/badge/Follow_on_Medium-118_Followers-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammadyasirimam)
+[![Follow on Medium](https://img.shields.io/badge/Follow_on_Medium-170_Followers-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammadyasirimam)
 
 </div>
 
@@ -316,7 +320,7 @@ Award-Winning Researcher & Author
 | 🔬 | **12 Publications · 1,710 Reads** | ResearchGate · 20+ across all platforms |
 | 📈 | **AD Scientific Index** | Top Computer Scientists · Pakistan · ID: 4652608 |
 | 📚 | **Published Author · Amazon** | "The Colors of Life Only We Can See" · 2026 |
-| ✍️ | **Award-Winning Researcher** | Medium bio · 118 followers · Award-Winning Writer |
+| ✍️ | **Award-Winning Researcher** | Medium bio · 170 followers · Award-Winning Writer |
 | 🏢 | **Huawei Scholar** | Selected for Huawei Technologies R&D · Beijing · 2021 |
 | 🌐 | **Peer Reviewer** | USJICT & IJCNS · Computer Science Journals |
 
