@@ -56,14 +56,14 @@ Citations:    19 (Google Scholar) | 1,710 Reads (ResearchGate)
 Publications: 12 (ResearchGate) | 20+ (All Platforms)
 Reviews:      Reviewer — USJICT & IJCNS Journals
 Book:         "The Colors of Life Only We Can See" — Amazon 2026
-Medium:       Award-Winning Researcher | 170 Followers
+Medium:       Award-Winning Researcher | 178+ Followers
 Status:       ✅ Open to Research Collaboration & Consultancy
 ```
 
 <br clear="right"/>
 
 ### 🌟 My Journey in One Line
-> *From 49% (D Grade) in matric → **4.0 CGPA Gold Medal** in BS Software Engineering — documented on Medium from inspired readers worldwide.*
+> *From 49% (D Grade) in matric → **4.0 CGPA Gold Medal** in BS Software Engineering, my real story is documented on Medium from inspired readers worldwide.*
 
 ---
 
@@ -121,7 +121,7 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 | 5 | [**Part of Teachers and Parents in Children's Education**](https://www.researchgate.net/publication/344035153) | N. Jannat, G. S. Khan, A. Saleem | ResearchGate · Article | 2020 |
 | 6 | **Enhanced e-Assessment Method Using IRT** | — | Academia.edu · Article | 2020 |
 | 7 | **Air Pollution Tracking Model Using WSS** | — | ResearchGate · Article | 2020 |
-| 8+ | **Additional 13+ Papers (Smart Grids, Blockchain, Pattern Recognition, DSS)** | Various | IEEE · Google Scholar | 2019–2024 |
+| 8+ | **Additional 13+ Papers (Smart Grids, Blockchain, Pattern Recognition, DSS)** | Various | IEEE · Google Scholar | 2019–2026 |
 
 <div align="center">
 
@@ -212,8 +212,8 @@ Education · Tech · AI/ML · Business · World
 </td>
 <td width="50%">
 
-**✍️ Sr. SEO Content Writer & CS Instructor**
-Global Study Expertz
+**✍️ Sr. SEO Content Writer**
+Crecentech System
 500+ LinkedIn Connections
 Award-Winning Researcher & Author
 
@@ -222,6 +222,7 @@ Award-Winning Researcher & Author
 </table>
 
 ### 🕐 Past Experience
+<div align="center">
 
 | Role | Organisation | Period |
 |------|-------------|--------|
@@ -230,6 +231,7 @@ Award-Winning Researcher & Author
 | 🧪 Project Intern | PepsiCo Inc. · R&D · Islamabad | Jun – Aug 2021 |
 | 📡 Project Intern | Zong · 4G Telecom · Pakistan | 2018 |
 | 🏫 Junior Lecturer (Part-Time) | Al-Hamd Islamic University | 2019 – 2021 |
+</div>
 
 ---
 
@@ -258,23 +260,24 @@ Award-Winning Researcher & Author
 ## ✍️ Medium & Writing
 
 > **"Published book author and Award-Winning Researcher. I write practical and impactful stories."**
-> — Medium bio · 170 followers · he/him
+> — Medium bio · 178+ followers · he/him
 
 ### 📝 Latest Articles (Verified)
+<div align="center">
 
-| Article | Publication | Responses | Date |
-|---------|------------|-----------|------|
-| 📌 [**From Poor Village to Gold Medalist: My Real Journey**](https://medium.com/@muhammadyasirimam/from-poor-village-to-gold-medalist-my-real-journey-47ad26d81b15) | Medium | **17** 🔥 | Jan 2026 |
-| 📌 [**Why Mental Wealth Matters More Than Money?**](https://medium.com/@muhammadyasirimam/why-mental-wealth-matters-more-than-money-0408b001d2da) | Medium | **11** | Feb 2026 |
-| 📌 [**How I Turn Stress into Clear Plans Using AI?**](https://medium.com/activated-thinker/how-i-turn-stress-into-clear-plans-using-ai-a110c330385c) | Activated Thinker | **7** | Feb 2026 |
-| 📌 [**How to Write Consistently Without Burning Out in 2026?**](https://medium.com/@muhammadyasirimam/how-to-write-consistently-without-burning-out-in-2026-2f200cbb2122) | Medium | **4** | Feb 2026 |
-| [**How I Write 3 High-Quality Stories a Week Without Burning Out**](https://medium.com/illumination/how-i-write-3-high-quality-stories-a-week-without-burning-out-in-2026-dfab08738690) | ILLUMINATION | 1 | Apr 2026 |
-| [**A Boy Who Outsmarted the Algorithm**](https://medium.com/new-literary-society/a-boy-who-outsmarted-the-algorithm-937c2e30f019) | New Literary Society | 1 | Mar 2026 |
-| [**5 AI Tools Every Content Strategist Needs to 10x Output**](https://medium.com/the-pub/5-ai-tools-every-content-strategist-needs-to-10x-output-without-losing-authenticity-2cdb647cc63d) | The Pub | 1 | Mar 2026 |
-| [**7 Lessons My Childhood Taught Me**](https://medium.com/write-a-catalyst/7-lessons-my-childhood-taught-me-3552ab90c525) | Write A Catalyst | 1 | Mar 2026 |
-| [**How I Learned to Protect My Inner Peace**](https://medium.com/illumination/how-i-learned-to-protect-my-inner-peace-without-cutting-everyone-off-0babecdeac08) | ILLUMINATION | — | Mar 2026 |
-| [**3 Quiet Drains Silently Ruining Your Inner Strength**](https://medium.com/pen-with-paper/3-quiet-drains-silently-ruining-your-inner-strength-in-2026-d7d2a9558ca0) | Pen With Paper | 3 | Mar 2026 |
-
+| Article | Publication | Date |
+|---------|------------|------|
+| 📌 [**From Poor Village to Gold Medalist: My Real Journey**](https://medium.com/@muhammadyasirimam/from-poor-village-to-gold-medalist-my-real-journey-47ad26d81b15) | Medium | Jan 2026 |
+| 📌 [**Why Mental Wealth Matters More Than Money?**](https://medium.com/@muhammadyasirimam/why-mental-wealth-matters-more-than-money-0408b001d2da) | Medium | Feb 2026 |
+| 📌 [**How I Turn Stress into Clear Plans Using AI?**](https://medium.com/activated-thinker/how-i-turn-stress-into-clear-plans-using-ai-a110c330385c) | Activated Thinker | Feb 2026 |
+| 📌 [**How to Write Consistently Without Burning Out in 2026?**](https://medium.com/@muhammadyasirimam/how-to-write-consistently-without-burning-out-in-2026-2f200cbb2122) | Medium | Feb 2026 |
+| [**How I Write 3 High-Quality Stories a Week Without Burning Out**](https://medium.com/illumination/how-i-write-3-high-quality-stories-a-week-without-burning-out-in-2026-dfab08738690) | ILLUMINATION | Apr 2026 |
+| [**A Boy Who Outsmarted the Algorithm**](https://medium.com/new-literary-society/a-boy-who-outsmarted-the-algorithm-937c2e30f019) | New Literary Society | Mar 2026 |
+| [**5 AI Tools Every Content Strategist Needs to 10x Output**](https://medium.com/the-pub/5-ai-tools-every-content-strategist-needs-to-10x-output-without-losing-authenticity-2cdb647cc63d) | The Pub | Mar 2026 |
+| [**7 Lessons My Childhood Taught Me**](https://medium.com/write-a-catalyst/7-lessons-my-childhood-taught-me-3552ab90c525) | Write A Catalyst | Mar 2026 |
+| [**How I Learned to Protect My Inner Peace**](https://medium.com/illumination/how-i-learned-to-protect-my-inner-peace-without-cutting-everyone-off-0babecdeac08) | ILLUMINATION | Mar 2026 |
+| [**3 Quiet Drains Silently Ruining Your Inner Strength**](https://medium.com/pen-with-paper/3-quiet-drains-silently-ruining-your-inner-strength-in-2026-d7d2a9558ca0) | Pen With Paper | Mar 2026 |
+</div>
 <div align="center">
 
 [![Follow on Medium](https://img.shields.io/badge/Follow_on_Medium-170_Followers-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammadyasirimam)
@@ -330,6 +333,7 @@ Award-Winning Researcher & Author
 
 ## 📈 GitHub Stats
 
+<!-- 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadyasirimam&show_icons=true&theme=github_dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -337,6 +341,7 @@ Award-Winning Researcher & Author
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyasirimam&layout=compact&theme=github_dark&hide_border=true&title_color=D4AF37&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 
 </div>
+-->
 
 <div align="center">
 
@@ -405,7 +410,7 @@ Award-Winning Researcher & Author
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="footer"/>
 
-**📍 Islamabad, Pakistan 🇵🇰** &nbsp;|&nbsp; **✉️ imammuhammadyasir@gmail.com** &nbsp;|&nbsp; **🔗 ORCID: 0000-0002-7495-4179**
+**📍 Pakistan 🇵🇰** &nbsp;|&nbsp; **✉️ imammuhammadyasir@gmail.com** &nbsp;|&nbsp; **🔗 ORCID: 0000-0002-7495-4179**
 
 *© 2026 Muhammad Yasir Imam — Research Scientist · CEO MYI Digital · Published Author · Gold Medalist*
 
