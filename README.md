@@ -29,7 +29,7 @@
 
 ---
 
-## 🧭 Quick Navigation
+## Quick Navigation
 
 <div align="center">
 
@@ -64,12 +64,12 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 
 <br clear="right"/>
 
-### 🌟 My Journey in One Line
+### My Journey in One Line
 > *From 49% (D Grade) in matric → **4.0 CGPA Gold Medal** in BS Software Engineering, my real story is documented on Medium from inspired readers worldwide.*
 
 ---
 
-## 📊 Research Stats
+## Research Stats
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 
 ---
 
-## 🔑 Researcher Identifiers
+## Researcher Identifiers
 
 <div align="center">
 
@@ -97,9 +97,9 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 
 ---
 
-## 🔬 Research & Publications
+## Research & Publications
 
-### 🎯 Research Areas
+### Research Areas
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 
 </div>
 
-### 📄 Verified Publications
+### Verified Publications
 
 | # | Title | Co-Authors | Venue | Year |
 |---|-------|-----------|-------|------|
@@ -134,30 +134,30 @@ Status:       ✅ Open to Research Collaboration & Consultancy
 
 ---
 
-## 🎓 Academic Profiles
+## Academic Profiles
 
 <div align="center">
 
 | Platform | ID / Handle | Status |
 |----------|-------------|--------|
-| 🎓 [Google Scholar](https://scholar.google.com/citations?user=b80oc1UAAAAJ) | `b80oc1UAAAAJ` | 19 citations |
-| 🔬 [ResearchGate](https://www.researchgate.net/profile/Muhammad-Yasir-Imam) | Muhammad-Yasir-Imam | 12 papers · 1,710 reads |
-| 🪪 [ORCID](https://orcid.org/0000-0002-7495-4179) | `0000-0002-7495-4179` | Verified ✅ |
-| 🌐 [Web of Science](https://www.webofscience.com/wos/author/record/G-4103-2019) | `G-4103-2019` | Verified ✅ |
-| ⚙️ [IEEE Xplore](https://ieeexplore.ieee.org/author/37088906312) | `37088906312` | Indexed ✅ |
-| 💾 [DBLP](https://dblp.org/pid/320/8025.html) | `pid/320/8025` | Indexed ✅ |
-| 📜 [Academia.edu](https://independent.academia.edu/MuhammadYasirImam) | MuhammadYasirImam | Active ✅ |
-| 🔭 [SciProfiles (MDPI)](https://sciprofiles.com/profile/933416) | `933416` | Active ✅ |
-| 📈 [AD Scientific Index](https://adscientificindex.com/scientist/muhammad-yasir-imam/4652608) | `4652608` | Top CS · Pakistan ✅ |
-| 🔍 [Researchr](https://researchr.org/alias/muhammad-yasir-imam) | muhammad-yasir-imam | Indexed ✅ |
-| 🌍 [Google Sites](https://sites.google.com/view/muhammad-yasir-imam/) | Personal Academic Page | Active ✅ |
-| ✍️ [SF Shaw](https://sfshaw.com/author/myasirimam/) | myasirimam | Featured Contributor ✅ |
+| [Google Scholar](https://scholar.google.com/citations?user=b80oc1UAAAAJ) | `b80oc1UAAAAJ` | 19 citations |
+| [ResearchGate](https://www.researchgate.net/profile/Muhammad-Yasir-Imam) | Muhammad-Yasir-Imam | 12 papers · 1,710 reads |
+| [ORCID](https://orcid.org/0000-0002-7495-4179) | `0000-0002-7495-4179` | Verified ✅ |
+| [Web of Science](https://www.webofscience.com/wos/author/record/G-4103-2019) | `G-4103-2019` | Verified ✅ |
+| [IEEE Xplore](https://ieeexplore.ieee.org/author/37088906312) | `37088906312` | Indexed ✅ |
+| [DBLP](https://dblp.org/pid/320/8025.html) | `pid/320/8025` | Indexed ✅ |
+| [Academia.edu](https://independent.academia.edu/MuhammadYasirImam) | MuhammadYasirImam | Active ✅ |
+| [SciProfiles (MDPI)](https://sciprofiles.com/profile/933416) | `933416` | Active ✅ |
+| [AD Scientific Index](https://adscientificindex.com/scientist/muhammad-yasir-imam/4652608) | `4652608` | Top CS · Pakistan ✅ |
+| [Researchr](https://researchr.org/alias/muhammad-yasir-imam) | muhammad-yasir-imam | Indexed ✅ |
+| [Google Sites](https://sites.google.com/view/muhammad-yasir-imam/) | Personal Academic Page | Active ✅ |
+| [SF Shaw](https://sfshaw.com/author/myasirimam/) | myasirimam | Featured Contributor ✅ |
 
 </div>
 
 ---
 
-## 💼 Experience
+## Experience
 
 ```mermaid
 timeline
@@ -181,13 +181,13 @@ timeline
     2026 : Published Author — Amazon
 ```
 
-### 🏢 Current Positions
+### Current Positions
 
 <table>
 <tr>
 <td width="50%">
 
-**🔬 Research Assistant — ARC**
+**Research Assistant — ARC**
 Alhamd Research Center
 Al-Hamd Islamic University · Islamabad
 *Dept. Computer Science*
@@ -196,7 +196,7 @@ Al-Hamd Islamic University · Islamabad
 </td>
 <td width="50%">
 
-**🚀 CEO & Founder — MYI Digital**
+**CEO & Founder — MYI Digital**
 Pakistan's Leading IT Outsourcing Company
 Website · Software · Apps · SEO · Marketing
 📧 info@myinews.world
@@ -206,7 +206,7 @@ Website · Software · Apps · SEO · Marketing
 <tr>
 <td width="50%">
 
-**📰 Founder & CEO — MYI News World**
+**Founder & CEO — MYI News World**
 [myinewsworld.com](https://myinewsworld.com) · Android & iOS
 Education · Tech · AI/ML · Business · World
 *Designed & Developed by MYI Digital*
@@ -214,7 +214,7 @@ Education · Tech · AI/ML · Business · World
 </td>
 <td width="50%">
 
-**✍️ Sr. SEO Content Writer**
+**Sr. SEO Content Writer**
 Crecentech System
 500+ LinkedIn Connections
 Award-Winning Researcher & Author
@@ -223,21 +223,21 @@ Award-Winning Researcher & Author
 </tr>
 </table>
 
-### 🕐 Past Experience
+### Past Experience
 <div align="center">
 
 | Role | Organisation | Period |
 |------|-------------|--------|
-| 🔬 Research Assistant | Ovetix · R&D · Islamabad | Jul 2021 – Jan 2022 |
-| 🏢 Scholar | Huawei Technologies · R&D · Beijing | Aug 2021 |
-| 🧪 Project Intern | PepsiCo Inc. · R&D · Islamabad | Jun – Aug 2021 |
-| 📡 Project Intern | Zong · 4G Telecom · Pakistan | 2018 |
-| 🏫 Junior Lecturer (Part-Time) | Al-Hamd Islamic University | 2019 – 2021 |
+| Research Assistant | Ovetix · R&D · Islamabad | Jul 2021 – Jan 2022 |
+| Scholar | Huawei Technologies · R&D · Beijing | Aug 2021 |
+| Project Intern | PepsiCo Inc. · R&D · Islamabad | Jun – Aug 2021 |
+| Project Intern | Zong · 4G Telecom · Pakistan | 2018 |
+| Junior Lecturer (Part-Time) | Al-Hamd Islamic University | 2019 – 2021 |
 </div>
 
 ---
 
-## 📚 Published Book
+## Published Book
 
 <div align="center">
 
@@ -259,12 +259,12 @@ Award-Winning Researcher & Author
 
 ---
 
-## ✍️ Medium & Writing
+## Medium & Writing
 
 > **"Published book author and Award-Winning Researcher. I write practical and impactful stories."**
 > — Medium bio · 178+ followers · he/him
 
-### 📝 Latest Articles (Verified)
+### Latest Articles (Verified)
 <div align="center">
 
 | Article | Publication | Date |
@@ -288,7 +288,7 @@ Award-Winning Researcher & Author
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <div align="center">
 
@@ -314,7 +314,7 @@ Award-Winning Researcher & Author
 
 ---
 
-## 🏆 Achievements & Awards
+## Achievements & Awards
 
 <div align="center">
 
@@ -333,7 +333,7 @@ Award-Winning Researcher & Author
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <!-- 
 <div align="center">
@@ -353,7 +353,7 @@ Award-Winning Researcher & Author
 
 ---
 
-## 🌐 MYI News World
+## MYI News World
 
 > **"MYI stands for Muhammad Yasir Imam. He is the founder & CEO and driving force behind MYI News World."**
 
@@ -376,7 +376,7 @@ Award-Winning Researcher & Author
 
 ---
 
-## 📬 Contact & Social
+## Contact & Social
 
 <div align="center">
 
@@ -393,7 +393,7 @@ Award-Winning Researcher & Author
 
 ---
 
-## 💡 Quote
+## Quote
 
 <div align="center">
 
@@ -413,6 +413,6 @@ Award-Winning Researcher & Author
 
 **📍 Pakistan 🇵🇰** &nbsp;|&nbsp; **✉️ imammuhammadyasir@gmail.com** &nbsp;|&nbsp; **🔗 ORCID: 0000-0002-7495-4179**
 
-*© 2026 Muhammad Yasir Imam — Research Scientist · CEO MYI Digital · Published Author · Gold Medalist*
+*© 2026 Muhammad Yasir Imam | Research Scientist · CEO MYI Digital · Published Author · Gold Medalist*
 
 </div>
