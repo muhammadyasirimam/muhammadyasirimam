@@ -47,10 +47,12 @@
 ```yaml
 Name:         Muhammad Yasir Imam
 Pronouns:     he/him
-From:         Rajanpur → Islamabad, Pakistan 🇵🇰
+From:         Rajanpur, Pakistan 🇵🇰
 Role:         Research Assistant @ ARC, Al-Hamd Islamic University
+              Web & Android Developer
               CEO & Founder @ MYI Digital
               Founder & CEO @ MYI News World
+              Sr. Content Writer & Research Associate
 Education:    BS Software Engineering — 4.0 CGPA 🏅 Gold Medal
 Citations:    19 (Google Scholar) | 1,710 Reads (ResearchGate)
 Publications: 12 (ResearchGate) | 20+ (All Platforms)
