@@ -40,7 +40,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 <img align="right" width="200" src="https://m.media-amazon.com/images/S/amzn-author-media-prod/o79ufvom8ml7mqohn2eluh55g0.jpg" style="border-radius:50%;margin:0 0 10px 20px;" alt="Muhammad Yasir Imam"/>
 
