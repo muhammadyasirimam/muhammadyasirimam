@@ -397,10 +397,9 @@ Award-Winning Researcher & Author
 
 <div align="center">
 
-> *"From a poor village near the Indus River, writing code at age 11 on a Pentium PC —*
+> *"From a poor village near the Indus River, writing code at age 11 on a Pentium PC and*
 > *from 49% in matric to a Gold Medal with 4.0 CGPA.*
 > *The trajectory can always change."*
->
 > **— Muhammad Yasir Imam**
 
 </div>
